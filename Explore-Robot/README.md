@@ -31,6 +31,7 @@
    指令：`roslaunch auto_nav amcl.launch`
 
 ## 如何下載
+   ```bash
    cd ~/catkin_ws/src
    git clone https://github.com/
    cd ..
