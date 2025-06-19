@@ -31,7 +31,10 @@
    指令：`roslaunch auto_nav amcl.launch`
 
 ## 如何下載
-
+   `cd ~/catkin_ws/src`
+   `git clone https://github.com/`
+   `cd ..`
+   `catkin_make`
 
 ## 影片
 https://youtu.be/CseWEquCzXg
