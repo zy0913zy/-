@@ -33,7 +33,7 @@
 ## 如何下載
 ```bash
    cd ~/catkin_ws/src
-   git clone https://github.com/
+   git clone https://github.com/zy0913zy/Explore_robot.git
    cd ..
    catkin_make
 ```
