@@ -28,6 +28,7 @@
 ```
 ## 影片
    https://youtu.be/CseWEquCzXg
+![auto_slam_rosgraph](https://github.com/user-attachments/assets/a7c012fa-0150-4a8b-9d07-dae79de37fc8)
 
 
 
